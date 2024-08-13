@@ -95,6 +95,11 @@ export default function Home() {
                 alt="your image"
                 className="absolute w-40 lg:w-52 left-56 -top-20 select-none hidden sm:block lg:hidden xl:block"
               />
+              <img
+                src="/line.png"
+                alt="line"
+                className="absolute w-20 -left-6 -bottom-6 select-none "
+              />
             </div>
           </div>
         </MaxWidthWrapper>
